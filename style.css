@@ -8,3 +8,7 @@ body{
         font-size: 50px;
         border: solid rgb(0, 0, 0); 
     }
+
+    .chamada-texto{
+        margin-right: 10%;
+    }
