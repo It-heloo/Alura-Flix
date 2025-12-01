@@ -1,14 +1,37 @@
+
 body{
     background-color: rgb(158, 14, 6);
-    color: black;
-    font-family: "Playfair Display", serif;
+    color: rgb(0, 0, 0);
+    font-family: "Epunda Slab", serif;
     margin: 0px;
 }
-    header{
-        font-size: 50px;
-        border: solid rgb(0, 0, 0); 
-    }
 
-    .chamada-texto{
-        margin-right: 10%;
-    }
+header{
+    font-size: 50px;
+    text-align: center;
+    border-bottom: double  5px rgb(94, 8, 8);
+   /* margin: 30px;*/
+   padding: 30px;
+  color: rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+section{
+background-color: rgb(74, 22, 14);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
+}
